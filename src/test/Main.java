@@ -3,7 +3,6 @@ package test;
 public class Main{
 
     public static void main(String[] args) {
-        Object
         leftHandClass s;
         rightHandClass s1;
         tailClass s2;
